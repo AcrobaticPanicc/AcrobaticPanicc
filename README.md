@@ -16,7 +16,7 @@
 - [Find more projects on my profile!](https://github.com/AcrobaticPanicc?tab=repositories)
 
 ## 📝 Blog Posts
-- [My Cloud Resume Challenge Journey]([https://medium.com/analytics-vidhya/exploring-the-api-of-a-website-8579b04df28f](https://dev.to/acrobaticpanicc/my-cloud-resume-challenge-journey-4442))
+- [My Cloud Resume Challenge Journey](https://dev.to/acrobaticpanicc/my-cloud-resume-challenge-journey-4442)
 - [Exploring the API of a Website](https://medium.com/analytics-vidhya/exploring-the-api-of-a-website-8579b04df28f)
 
 ## 📫 Contact Me
